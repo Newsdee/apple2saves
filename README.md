@@ -5,6 +5,8 @@ while keeping your collection of saves separate from your main .dsk or .woz file
 
 This is particularly useful to play on a MiSTer FPGA on a TV or "consolized" setup without having to edit or copy files from a PC filesystem.
 
+## Multiple Save Disks
+
 Some games such as Ultima II require one disk per character, which need to be reformatted if your character dies.
 In this case there are multiple disks provided, to be used as separate save slots without having to reformat every time you need to restart.
 
